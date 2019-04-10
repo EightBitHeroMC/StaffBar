@@ -1,2 +1,1 @@
-                              # - Staff Mode For PocketMine-MP - #
-» How To Use «
+  **How does it work?**
