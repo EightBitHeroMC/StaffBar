@@ -1,0 +1,10 @@
+
+name: StaffMode
+main: EightBitHeroMC\StaffMode
+version: 1.0.0
+api: [2.0.0]
+commands:
+ staffmode:
+  #description: "Enable StaffMode to start moderating!"
+  #usage: "/command"
+  #permission: "access.staffmode.cmd"
