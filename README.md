@@ -16,3 +16,5 @@
 **Staff List**: *Checks all online staff members on the server (TAP/RIGHT CLICK)
 
 **Hacker Vanquisher**: *Instantly Kills Hackers (Make sure player isn't frozen)
+
+## All Command Nodes Available ##
