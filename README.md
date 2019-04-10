@@ -1,3 +1,3 @@
 -
-Staff Mode For Minecraft Bedrock Edition/PocketMine-MP
+Staff Mode For PocketMine-MP
 -
