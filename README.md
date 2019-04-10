@@ -22,3 +22,4 @@
 
 **PLAYER PERMISSION NODES**
 - access.report.cmd
+- access.pvanish.cmd (OPTIONAL NOT COMPLETLY VANISHED)
