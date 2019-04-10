@@ -1,3 +1,4 @@
+-----
 ## Available Features ##
 
 **Vanish**: *Makes staff completly invisible to players (Toggle)
