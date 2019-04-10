@@ -1,3 +1,1 @@
--
-Staff Mode For PocketMine-MP
--
+##### Staff Mode For PocketMine-MP #####
