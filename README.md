@@ -16,12 +16,3 @@
 **Staff List**: *Checks all online staff members on the server (TAP/RIGHT CLICK)
 
 **Hacker Vanquisher**: *Instantly Kills Hackers (Make sure player isn't frozen)
-
------
-## Command Nodes ##
-**STAFF PERMISSIONS NODES**
-- access.staffmode.cmd
-
-**PLAYER PERMISSION NODES**
-- access.report.cmd
-- access.pvanish.cmd (OPTIONAL NOT COMPLETLY VANISHED)
