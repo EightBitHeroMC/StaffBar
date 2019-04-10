@@ -17,4 +17,8 @@
 **Hacker Vanquisher**: *Instantly Kills Hackers (Make sure player isn't frozen)
 
 -----
-**PERMISSIONS**
+**STAFF PERMISSIONS NODES**
+- access.staffmode.cmd
+
+**PLAYER PERMISSION NODES**
+- access.report.cmd
